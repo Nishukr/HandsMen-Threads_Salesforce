@@ -79,7 +79,7 @@ The project aims to:
 ## 📸 Screenshots
 
 
-![Dashboard Screenshot](Screenshot 2025-07-09 145802.png)
+![Dashboard Screenshot](Screenshots/stock_alert_flow.png)
 
 ---
 
