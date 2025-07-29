@@ -82,6 +82,12 @@ The project aims to:
 
 ![Lead Automation Screenshot](Screenshots/stock_alert_flow.png)
 
+### 📽️ Demo Video
+
+Watch the full demo of the Salesforce CRM automation project in action:
+
+▶️ [Click to Watch Video on Google Drive](https://drive.google.com/file/d/1e_k5bHQpoqNDwhM9eMexBTxOgCZN5i9i/view?usp=drive_link)
+
 
 
 ### 💾 Hardware Requirements
