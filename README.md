@@ -79,19 +79,24 @@ The project aims to:
 ## 📸 Screenshots
 
 
-![Dashboard Screenshot](Screenshots/stock_alert_flow.png)
+![Dashboard Screenshot](Screenshots/Screenshot 2025-07-09 145802.png)
 
 ---
 
-### 2. Flow Design
-Visual representation of the Record-Triggered Flow for Loyalty Status update.
-![Flow Screenshot](Screenshots/flow-design.png)
+
+![Flow Screenshot](Screenshots/Screenshot 2025-07-30 013032.png)
 
 ---
 
-### 3. Automated Lead Assignment
-Example of how leads are auto-assigned using criteria-based logic.
-![Lead Automation Screenshot](Screenshots/lead-automation.png)
+
+![Lead Automation Screenshot](Screenshots/Screenshot 2025-07-30 013059.png)
+
+![Lead Automation Screenshot](Screenshots/Screenshot 2025-07-30 013125.png)
+
+![Lead Automation Screenshot](Screenshots/classic_email_template.png)
+
+![Lead Automation Screenshot](Screenshots/stock_alert_flow.png)
+
 
 
 ### 💾 Hardware Requirements
