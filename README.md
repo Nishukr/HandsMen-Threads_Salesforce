@@ -76,22 +76,7 @@ The project aims to:
 - Linux (Browser-dependent support)
 - ChromeOS (via browser)
 
-## 📸 Screenshots
 
-
-![Dashboard Screenshot](Screenshots/Screenshot 2025-07-09 145802.png)
-
----
-
-
-![Flow Screenshot](Screenshots/Screenshot 2025-07-30 013032.png)
-
----
-
-
-![Lead Automation Screenshot](Screenshots/Screenshot 2025-07-30 013059.png)
-
-![Lead Automation Screenshot](Screenshots/Screenshot 2025-07-30 013125.png)
 
 ![Lead Automation Screenshot](Screenshots/classic_email_template.png)
 
