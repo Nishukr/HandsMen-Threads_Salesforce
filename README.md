@@ -76,6 +76,24 @@ The project aims to:
 - Linux (Browser-dependent support)
 - ChromeOS (via browser)
 
+## 📸 Screenshots
+
+
+![Dashboard Screenshot](Screenshot 2025-07-09 145802.png)
+
+---
+
+### 2. Flow Design
+Visual representation of the Record-Triggered Flow for Loyalty Status update.
+![Flow Screenshot](Screenshots/flow-design.png)
+
+---
+
+### 3. Automated Lead Assignment
+Example of how leads are auto-assigned using criteria-based logic.
+![Lead Automation Screenshot](Screenshots/lead-automation.png)
+
+
 ### 💾 Hardware Requirements
 | Component     | Minimum Requirement | Recommended          |
 |---------------|---------------------|----------------------|
